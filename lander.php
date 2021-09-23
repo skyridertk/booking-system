@@ -7,7 +7,7 @@
 
 <?php include("header.php") ?>
 
-    <section id="main" class="w-screen h-screen flex items-center p-5" style="background-image: url('resources/main.jpg');background-size: cover;background-repeat: no-repeat;">
+    <section id="main" class="w-screen h-screen flex items-center p-5" style="background-image: url('resources/main.jpg');min-height: 500px;background-size: cover;background-repeat: no-repeat;background-position: center;background-attachment: fixed;">
         <div>
             <div class="text-3xl text-white font-bold">
                 Memorable events don’t just happen. They happen to be our business
@@ -25,7 +25,7 @@
         Trusted by companies and professionals
         </div>
         <div class="text-center">
-        Useful platform
+        Choose us
         </div>
         <div class="flex justify-evenly">
             <div class="h-32 w-72 bg-red-600 flex flex-col items-center justify-center rounded-lg text-white">
@@ -43,35 +43,50 @@
         </div>
     </section>
 
-    <section class="bg-gray-50 flex justify-center py-14">
+    <section class="flex justify-center py-14">
         <div class="font-bold text-2xl">
-            What can you do
+            Our services
         </div>
     </section>
 
     
 
-    <section class="w-screen h-screen flex p-5">
-        <div>
-            <div>
-                Conferences
+    <section class="w-screen h-min-screen flex flex-col p-5 space-y-32" style="background-image: url('resources/pat.jpg');background-size: cover;background-repeat: no-repeat;min-height: 500px;background-position: center;background-attachment: fixed;">
+    <div class="flex w-full shadow-lg rounded-xl">
+                <div class="w-6/12 flex bg-white flex-col justify-center items-center">
+                <div>Conferences</div>
+                <div>Book venues for hosting conferences</div>
+</div>
+<div class="w-6/12 h-72 p-2" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
             </div>
-            <div>
-                Church Gatherings
+            <div class="flex w-full shadow-lg rounded-xl">
+                <div class="w-6/12 bg-white flex flex-col justify-center items-center">
+                <div>Church gatherings</div>
+                <div>Book venues for hosting conferences</div>
+</div>
+<div class="w-6/12 h-72 p-2" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
             </div>
-            <div>
-                Fun fairs
+            <div class="flex w-full shadow-lg rounded-xl">
+                <div class="w-6/12 bg-white flex flex-col justify-center items-center">
+                <div>Car showcase</div>
+                <div>Book venues for hosting conferences</div>
+</div>
+<div class="w-6/12 h-72 p-2" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
             </div>
-            <div>
-                Car showcase
+            <div class="flex w-full shadow-lg rounded-xl">
+                <div class="w-6/12 bg-white flex flex-col justify-center items-center">
+                <div>Businesss podiums</div>
+                <div>Book venues for hosting conferences</div>
+</div>
+<div class="w-6/12 h-72 p-2" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
             </div>
-            <div>
-                Business talks
+            <div class="flex w-full shadow-lg rounded-xl">
+                <div class="w-6/12 bg-white flex flex-col justify-center items-center">
+                <div>Weddings</div>
+                <div>Book venues for hosting conferences</div>
+</div>
+<div class="w-6/12 h-72 p-2" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
             </div>
-            <div>
-                Wedding reception
-            </div>
-        </div>
     </section>
 
 
@@ -82,7 +97,7 @@
                     Ready to dive in?
                 </div>
                 <div class="text-3xl text-blue-400 font-bold">
-                Book an event today
+                Book a venue today
             </div>
             </div>
                     
@@ -98,7 +113,7 @@
     </section>
 
 
-    <footer class="bg-green-600 text-white text-center p-5">
+    <footer class="bg-green-900 text-white text-center p-5">
         <div>
             Venue booking system  (c) 2021
         </div>
