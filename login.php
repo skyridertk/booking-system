@@ -13,14 +13,14 @@
     <?php include("header.php") ?>
 
     <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-        <div style="width: 300px;">
-            <h1>
-                Sign In
-            </h1>
+        <div class="w-72 space-y-3">
+            <div class="font-bold text-2xl">
+                Sign in
+            </div>
 
             <form action="db\login.php" method="post">
                 <div class="mb-3">
-                    <label for="email" class="form-label">Email address</label>
+                    <label for="email" class="form-label">Email</label>
                     <input type="email_signin" class="form-control" id="email" aria-describedby="emailHelp" name="email">
                 </div>
                 <div class="mb-3">

@@ -14,12 +14,10 @@
 <?php include("header.php") ?>
 
     <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-        <div style="width: 300px;">
-            <h1>
+        <div class="w-72 space-y-3">
+            <div class="font-bold text-2xl">
                 Register
-            </h1>
-
-            <php echo $email_exist; ?>
+            </div>
 
             <form action="db/register.php" method="post">
                 <div class="mb-3">

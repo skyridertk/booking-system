@@ -14,7 +14,7 @@
 if(isset($_SESSION['user'])){
         ?>
             <nav>
-        <div class="px-3 py-3 flex justify-between w-full bg-gray-100" >
+        <div class="px-3 py-3 flex justify-between w-full bg-white shadow-lg" >
             <div class="flex">
                 <a href="index.php">
                 <div class="font-bold text-lg">
@@ -37,9 +37,9 @@ if(isset($_SESSION['user'])){
     else {
         ?>
             <nav>
-        <div class="px-3 py-3 flex justify-between w-full bg-gray-100" >
+        <div class="px-3 py-3 flex justify-between w-full bg-white shadow-lg" >
             <div class="flex">
-                <a href="lander.html">
+                <a href="lander.php">
                 <div class="font-bold text-lg">
                     Venue Booking system
                 </div>

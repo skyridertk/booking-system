@@ -12,6 +12,9 @@
 
         <div class="container flex flex-col p-8 items-center space-y-5">
             <div class="text-4xl font-bold uppercase"> Contact us</div>
+            <div>
+                Contact our team
+            </div>
             <div class="flex p-3">
 
                 <div>
