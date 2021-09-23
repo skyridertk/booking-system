@@ -36,7 +36,7 @@
             </div>
             <div class="h-32 w-72 bg-green-600 flex flex-col items-center justify-center rounded-lg text-white">
                 <div>1000+</div>
-                <div>Visitors</div>
+                <div>Monthly Visitors</div>
             </div>
         </div>
     </section>
@@ -186,7 +186,7 @@
                             </div>
                         </div>
                         <div class="w-full">
-                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>There are two type of people in this world: those who like venue booking system and those who dont know about it<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>There are two types of people in this world: those who like venue booking system and those who dont know about it<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
                         </div>
                     </div>
                 </div>
