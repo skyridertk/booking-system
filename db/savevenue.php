@@ -10,8 +10,6 @@ if(isset($_POST["submit"])){
     $capacity = $_POST["capacity"];
     $id = $_SESSION["id"];
 
-    print_r(json_encode($_FILES["fileToUpload"]));
-    
     $image = $_FILES["fileToUpload"];
 
     $image_name = $image["name"];
