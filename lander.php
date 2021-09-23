@@ -117,7 +117,7 @@
                             </div>
                         </div>
                         <div class="w-full">
-                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos sunt ratione dolor exercitationem minima quas itaque saepe quasi architecto vel! Accusantium, vero sint recusandae cum tempora nemo commodi soluta deleniti.<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Officially, this is my favourite playground<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
                         </div>
                     </div>
                     <div class="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
@@ -130,7 +130,7 @@
                             </div>
                         </div>
                         <div class="w-full">
-                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum, dolor sit amet, consectetur adipisicing elit. Dolore quod necessitatibus, labore sapiente, est, dignissimos ullam error ipsam sint quam tempora vel.<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>I started using this platform recently and I must say I'm very impressed with the work<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
                         </div>
                     </div>
                 </div>
@@ -145,20 +145,20 @@
                             </div>
                         </div>
                         <div class="w-full">
-                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, obcaecati ullam excepturi dicta error deleniti sequi.<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Very intuitive and ease to use platform<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
                         </div>
                     </div>
-                    <div class="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
+                    <div class="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6 ">
                         <div class="w-full flex mb-4 items-center">
                             <div class="overflow-hidden rounded-full w-10 h-10 bg-gray-50 border border-gray-200">
                                 <img src="https://i.pravatar.cc/100?img=4" alt="">
                             </div>
                             <div class="flex-grow pl-3">
-                                <h6 class="font-bold text-sm uppercase text-gray-600">Charlie Howse.</h6>
+                                <h6 class="font-bold text-sm uppercase text-gray-600">Chibaba Godfree</h6>
                             </div>
                         </div>
-                        <div class="w-full">
-                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto inventore voluptatum nostrum atque, corrupti, vitae esse id accusamus dignissimos neque reprehenderit natus, hic sequi itaque dicta nisi voluptatem! Culpa, iusto.<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                        <div class="w-full ">
+                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Mukubata basa<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
                         </div>
                     </div>
                 </div>
@@ -173,7 +173,7 @@
                             </div>
                         </div>
                         <div class="w-full">
-                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, voluptatem porro obcaecati dicta, quibusdam sunt ipsum, laboriosam nostrum facere exercitationem pariatur deserunt tempora molestiae assumenda nesciunt alias eius? Illo, autem!<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>We where able to find a venue for out wedding. It is very useful keep up the good work<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
                         </div>
                     </div>
                     <div class="w-full mx-auto rounded-lg bg-white border border-gray-200 p-5 text-gray-800 font-light mb-6">
@@ -186,7 +186,7 @@
                             </div>
                         </div>
                         <div class="w-full">
-                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem iusto, explicabo, cupiditate quas totam!<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
+                            <p class="text-sm leading-tight"><span class="text-lg leading-none italic font-bold text-gray-400 mr-1">"</span>There are two type of people in this world: those who like venue booking system and those who dont know about it<span class="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span></p>
                         </div>
                     </div>
                 </div>
