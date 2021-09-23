@@ -13,7 +13,7 @@
 
 <?php include("header.php") ?>
 
-    <div class="p-5 min-h-screen" style="background-image: url('resources/paper.jpg');background-size: cover;background-repeat: no-repeat; 500px;background-position: center;background-attachment: fixed;">
+    <div class="p-5 min-h-screen">
         
         <?php
 
@@ -21,9 +21,9 @@
                 echo 'No venues';
             } else {
                 ?>
-                <div class="text-center text-4xl font-semibold mb-5">
-                    ALL VENUES
-                </div>
+                <h1 class="text-6xl md:text-7xl font-bold mb-5 text-gray-600 text-center">
+                    All Venues
+                </h1>
                 <?php
                 
                 echo '<div class="flex flex-wrap">';
