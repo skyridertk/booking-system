@@ -31,7 +31,7 @@
                     
                     echo '<div class="w-73 h-73 m-3 cursor-pointer shadow-lg p-1 rounded-lg" onclick="handleClick('.$row['id'].')">';
                         echo '<div>';
-                        echo '<img src="db/uploads/'.$row["image"].'" class="w-72 h-72"/>';
+                        echo '<img src="db/uploads/'.$row["image"].'" class="w-64 h-40"/>';
                         echo '</div>';
                     
                     echo '</div>';

@@ -64,21 +64,15 @@
                 <div>Church gatherings</div>
                 <div>Book venues for hosting conferences</div>
 </div>
-<div class="w-6/12 h-72 p-2" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
+<div class="w-6/12 h-72 p-2" style="background-image: url('resources/church.jpg');background-size: cover;background-repeat: no-repeat;"></div>
             </div>
             <div class="flex w-full shadow-lg rounded-xl">
                 <div class="w-6/12 bg-white flex flex-col justify-center items-center">
                 <div>Car showcase</div>
                 <div>Book venues for hosting conferences</div>
 </div>
-<div class="w-6/12 h-72 p-2" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
-            </div>
-            <div class="flex w-full shadow-lg rounded-xl">
-                <div class="w-6/12 bg-white flex flex-col justify-center items-center">
-                <div>Businesss podiums</div>
-                <div>Book venues for hosting conferences</div>
-</div>
-<div class="w-6/12 h-72 p-2" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
+
+<div class="w-6/12 h-72 p-2" style="background-image: url('resources/talk.jpg');background-size: cover;background-repeat: no-repeat;"></div>
             </div>
             <div class="flex w-full shadow-lg rounded-xl">
                 <div class="w-6/12 bg-white flex flex-col justify-center items-center">
