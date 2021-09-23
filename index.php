@@ -13,7 +13,7 @@
 
 <?php include("header.php") ?>
 
-    <div class="p-5">
+    <div class="p-5 min-h-screen" style="background-image: url('resources/paper.jpg');background-size: cover;background-repeat: no-repeat; 500px;background-position: center;background-attachment: fixed;">
         
         <?php
 
@@ -29,7 +29,7 @@
                 echo '<div class="flex flex-wrap">';
                 while($row = mysqli_fetch_array($query)) {
                     
-                    echo '<div class="w-73 h-73 m-3 cursor-pointer shadow-lg p-1 rounded-lg" onclick="handleClick('.$row['id'].')">';
+                    echo '<div class="w-73 h-73 m-3 cursor-pointer shadow-lg p-1 bg-white rounded-lg" onclick="handleClick('.$row['id'].')">';
                         echo '<div>';
                         echo '<img src="db/uploads/'.$row["image"].'" class="w-64 h-40"/>';
                         echo '</div>';

@@ -8,20 +8,18 @@
 <?php include("header.php") ?>
 
 
-    <section id="contact" class="flex justify-center min-h-screen">
+    <section id="contact" class="flex justify-center min-h-screen items-center">
 
         <div class="container flex flex-col p-8 items-center space-y-5">
             <div class="text-4xl font-bold uppercase"> Contact us</div>
-            <div>
-                Contact our team
-            </div>
+            
             <div class="flex p-3">
 
                 <div>
 
                     <div class="flex space-x-5 items-center">
-                    <a class="rounded-xl bg-red-400 text-white px-5 py-2" href="mailto:lynnmatope@gmail.com">
-                            Email
+                        <a class="rounded-xl bg-red-400 text-white px-5 py-2" href="mailto:kev@gmail.com">
+                            Send Email
                         </a>
                         <div>kev@gmail.com </div>
                     </div>
