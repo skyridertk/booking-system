@@ -13,7 +13,7 @@
                 Memorable events don’t just happen. They happen to be our business
             </div>
             <a href="signup.php">
-                <div class="px-5 py-3 bg-green-500 w-72 text-lg text-white rounded-xl text-center my-3">
+                <div class="transition duration-500 ease-in-out transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:transform-none px-5 py-3 bg-green-500 hover:bg-green-700 w-72 text-lg text-white rounded-xl text-center my-3">
                     Get Started
                 </div>
             </a>
@@ -51,35 +51,38 @@
 
     
 
-    <section class="w-screen h-min-screen flex flex-col p-5 space-y-32" style="background-image: url('resources/pat.jpg');background-size: cover;background-repeat: no-repeat;min-height: 500px;background-position: center;background-attachment: fixed;">
-    <div class="flex w-full shadow-lg rounded-xl">
-                <div class="w-6/12 flex bg-white flex-col justify-center items-center">
+    <section class="w-screen h-min-screen flex flex-col p-5 space-y-32 items-center" >
+    <div class="flex shadow-lg rounded-xl bg-yellow-200 w-8/12">
+                <div class="w-6/12 flex bg-red-400 text-white flex-col justify-center items-center">
                 <div>Conferences</div>
-                <div>Book venues for hosting conferences</div>
+               
 </div>
-<div class="w-6/12 h-72 p-2" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
+<div class="w-6/12 h-72 p-2 transform  translate-x-4 translate-y-4" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
             </div>
-            <div class="flex w-full shadow-lg rounded-xl">
-                <div class="w-6/12 bg-white flex flex-col justify-center items-center">
-                <div>Church gatherings</div>
-                <div>Book venues for hosting conferences</div>
-</div>
-<div class="w-6/12 h-72 p-2" style="background-image: url('resources/church.jpg');background-size: cover;background-repeat: no-repeat;"></div>
-            </div>
-            <div class="flex w-full shadow-lg rounded-xl">
-                <div class="w-6/12 bg-white flex flex-col justify-center items-center">
+            <div class="flex w-8/12 shadow-lg rounded-xl bg-red-400">
+            <div class="w-6/12 h-72 p-2 " style="background-image: url('resources/church.jpg');background-size: cover;background-repeat: no-repeat;"></div>
+                <div class="w-6/12 bg-blue-500 text-white flex flex-col justify-center items-center transform  translate-x-4 translate-y-4">
+                    <div>Church gatherings</div>
+                    
+                </div>
+                
+                            </div>
+            <div class="flex w-8/12 shadow-lg rounded-xl bg-green-400">
+                <div class="w-6/12 bg-yellow-500 flex flex-col justify-center items-center">
                 <div>Car showcase</div>
-                <div>Book venues for hosting conferences</div>
+               
 </div>
 
-<div class="w-6/12 h-72 p-2" style="background-image: url('resources/talk.jpg');background-size: cover;background-repeat: no-repeat;"></div>
+<div class="w-6/12 h-72 p-2 transform  translate-x-4 translate-y-4" style="background-image: url('resources/talk.jpg');background-size: cover;background-repeat: no-repeat;"></div>
             </div>
-            <div class="flex w-full shadow-lg rounded-xl">
-                <div class="w-6/12 bg-white flex flex-col justify-center items-center">
-                <div>Weddings</div>
-                <div>Book venues for hosting conferences</div>
-</div>
-<div class="w-6/12 h-72 p-2" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
+
+            <div class="flex w-8/12 shadow-lg rounded-xl bg-blue-400">
+            <div class="w-6/12 h-72 p-2 bg-red-100" style="background-image: url('resources/conf.jpg');background-size: cover;background-repeat: no-repeat;"></div>
+                <div class="w-6/12 bg-green-500 text-white flex flex-col justify-center items-center transform  translate-x-4 translate-y-4">
+                    <div>Weddings</div>
+        
+                </div>
+                
             </div>
     </section>
 
@@ -98,7 +101,7 @@
                 
             <div>
             <a href="signup.php">
-                <div class="px-5 py-3 bg-blue-500 w-72 text-lg text-white rounded-xl text-center my-3">
+                <div class="transition duration-500 ease-in-out transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:transform-none px-5 py-3 bg-blue-500 hover:bg-blue-600 w-72 text-lg text-white rounded-xl text-center my-3">
                     Book
                 </div>
             </a>
